@@ -20,10 +20,8 @@ Criei este repositório para registrar minha evolução enquanto estudo Python. 
 
 - [x] Calculadora
 - [x] Média de notas
-- [ ] Conversor de temperatura
-- [ ] Pedra, Papel e Tesoura
-- [ ] Sistema Bancário
-- [ ] Sistema de Mercado
+- [x] Caixa Eletrônico
+- [x] Sistema de Mercado
 
 ---
 
